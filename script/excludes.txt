@@ -1,0 +1,6 @@
+# List of files to exclude when updating / generating copyright headers
+# using the update_copyright_headers.py script.
+# Directory names are also supported, but you must specify them relative
+# to the root of the repository.
+src\Kernel\GP
+keep4now

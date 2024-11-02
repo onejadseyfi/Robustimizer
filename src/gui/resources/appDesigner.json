@@ -1,0 +1,23 @@
+{
+  "components": [
+    {
+      "className": "ParameterSliderGroup",
+      "componentName": "ParameterSliderGroup",
+      "description": "ParameterSliderGroup is a component class containing a grid of sliders with labels.",
+      "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAB3RJTUUH6AMWCSQc7inHugAABJxJREFUSIl1ld9rHFUUxz/nzp3MzrbdZDcJaWLTRiyaCIIpVKzaithiH1rtg+hfYH3zxTfBv0Pw3SfxUcS0tkix+iAV2oYKYktKMKYmu9kf2dnZmXuvDzOzmaR6l8sdlpnzvef7Ped7ZGVlZTyO43P1el2LiBMRRARRKjsBRAAQwJEt5xw4hytta23xLM1ms++c+1FXKpVPJxuNzythyCg4IEplkURQJRCXRd8Dyc/yBvA8j62trau6VqtNVsMqrVYTrTUikgXNT4GnMvnv4OBwuDyLRqOBMeYZba2l3d5hc3MTX/sopVCeoMTLqZJRZuV18NbWWZyxGGuxxnJ0VjDWWuWcQ0SyF4tfcZuCcVdwvv/2+7KxJX3yJ2sMut1uE0URQaWCKoQtbVeoW3zoMg0KLVxBnQJxCpUXyOP1dXyt0UoppqanUSIopfC8MkgmtMoFl7LQBUCeTVFBNq+u3d1dmq0WWvs+zy4s5Hx73F/rYZzCWcuLJw5TC31cIXIJ5OBypaystey02xmANQbnHCsr3/Pz7V8IT17ANJ4nNLvcvvYN46FDeXpEXyGqMRZjUpIkIUkShsMhcRzT6/W4cuUKi0tLGGPQJgfodLr8s7lBz26wLQGThy2LtHADMoCcOlxGR5qmJGlCMkyIhzHxYEAUDdjZ2aHb62V0GYO21jIcDrl06RLvvXuZr769x08P2jw3XeOTD68SBhoHCJJXxx5d5YopqsyRVWW3092fQbaF9y+8wOVzMWGlwpgvpMaMeM/OUfEiQgnMkVo7es86i7U2y8AYg+d5aK3xfZ8wrI4+yxq6DLD3f29g2NgeICKEY4q5yQDnIE1TjDGkxqCNtYgIq6urPHr0iGBsDM/z8LRGex6iVNbdhTfldAiWzY7QH3+JXqoY6zxkhscM4oTl5ZeZnJra00BEuHf3Ljeu/8BEfYJqGFIJQ4IgwPfH8H1/1B8u71CTJmx0hOZUg/YuTPQfwPo1mq0OtfEaU9PTuQZpSjwY8M7Fi7x9/nx228J7Sh60r/6dw/MUf6xt8cV3m5i+483Xl7lw6i3ixHD40CEGg0EGYK3FWkcQBIS5ZRcBhUxFQXItRk4BwNLJOT77IGSYWuZmJgiCMarWgUA/ikoALnOqgzwjoBDi1LAbGUQJviccCbPS9TyP+WPTiAjG2JFhFr1ijEGneZlub2/T6XTwvMymi87VnvCkp3nCHBbFEbPNwnhvlEV5mhVBZ2Zm8m4vRFaKmzducn1lhXq9TlgNqVRCgkpAxdd0adCfv8RulHJMHnK/9SupdQyHCXEcE0URURTR7/dpNrf56OOrnD79CsbazIuSOObMa2dYXFrE1xpRCk8pRCl8rfh9rcPXd/4iih3LpyZ549WLJCabXtZmw8YYgzWGJE2ZP36cOI4xaZploJTH3Ows8/PzjMa7FE2mmJ2NqNf/Jk5geeko9Vo1s+WsgffauRhUztFqtrJObjab3PntDtXqIch9ZK9bCzihXhGkAutrf/K4HLzsSTmAUoqNjQ263a7SJxYWvrx169aNIAiM8H+28PQMKI9Nd2DCOWeJ46F37uzZ1X8BpsTmhu9XRncAAAAASUVORK5CYII=",
+      "category": "Robustimizer Custom Components",
+      "authorName": "Xander Burgerhout",
+      "authorEmail": "",
+      "version": "1.0",
+      "avatar": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAIAAAD/gAIDAAAAB3RJTUUH6AMWCgAywVGVigAAAOlJREFUeJzt0EENACEQwMDj/ItdCVigL0Iyo6DpmpmPM//tgJeYFZgVmBWYFZgVmBWYFZgVmBWYFZgVmBWYFZgVmBWYFZgVmBWYFZgVmBWYFZgVmBWYFZgVmBWYFZgVmBWYFZgVmBWYFZgVmBWYFZgVmBWYFZgVmBWYFZgVmBWYFZgVmBWYFZgVmBWYFZgVmBWYFZgVmBWYFZgVmBWYFZgVmBWYFZgVmBWYFZgVmBWYFZgVmBWYFZgVmBWYFZgVmBWYFZgVmBWYFZgVmBWYFZgVmBWYFZgVmBWYFZgVmBWYFZgVmBWYFZgVbCQbA5h4ZYqmAAAAAElFTkSuQmCC",
+      "defaultPosition": [
+        1,
+        1,
+        100,
+        100
+      ]
+    }
+  ],
+  "schema": 2,
+  "MATLABRelease": "R2022b"
+}

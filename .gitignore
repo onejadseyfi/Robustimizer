@@ -1,0 +1,62 @@
+# Windows default autosave extension
+*.asv
+
+# OSX / *nix default autosave extension
+*.m~
+
+# Compiled MEX binaries (all platforms)
+*.mex*
+
+# Packaged app and toolbox files
+*.mlappinstall
+*.mltbx
+
+# Generated helpsearch folders
+helpsearch*/
+
+# Simulink code generation folders
+slprj/
+sccprj/
+
+# Matlab code generation folders
+codegen/
+
+# Simulink autosave extension
+*.autosave
+
+# Simulink cache files
+*.slxc
+
+# Octave session info
+octave-workspace
+
+# Backup files
+*.bak
+~$*.docx
+
+# OS generated files
+.DS_Store
+.DS_Store?
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# temporary test folder
+#test/
+
+# temporary input/output text files
+in.txt
+out.txt
+OutputSeqObj.txt
+outOriginal.txt
+inOriginal.txt
+inSequentiallyUpdated.txt
+outSequentiallyUpdated.txt
+SaveOutput.txt
+# As 'src' is often the working directory, during development and 
+# (manual) testing, a lot of temporary *.txt files end up in src.
+# Ignoring them all avoids cluttering the git status output, at the
+# cost of a potential risk of forgetting to commit a txt file that
+# should be committed.
+src/*.txt
